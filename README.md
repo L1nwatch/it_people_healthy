@@ -55,7 +55,7 @@
         - 从脚后跟滑到脚趾
         - 步幅缩小，步速放快
         - 用腹部呼吸
-        - ![步行图]()
+        - ![步行图](https://github.com/L1nwatch/it_people_healthy/blob/master/walking.png?raw=true)
     - 做好准备
         - 提前几个小时，做你能想到的一切准备工作。当你的意思开始制造借口的时候，这个方法能帮助你扫清很多障碍。
 ***
