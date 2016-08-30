@@ -24,17 +24,24 @@
 * [高强度锻炼前的热身运动](https://github.com/L1nwatch/it_people_healthy#高强度锻炼前的热身运动)
 * [提升身体力量的动作](https://github.com/L1nwatch/it_people_healthy#提升身体力量的动作)
 * [增强躯干肌肉群的运动](https://github.com/L1nwatch/it_people_healthy#增强躯干肌肉群的运动)
-* [提升有氧运动能力]()
+* [提升有氧运动能力](https://github.com/L1nwatch/it_people_healthy#提升有氧运动能力的计划表)
 
 
 ### 日常检查事项
-* [每日会议(每日反思、健康的站立)]()
-* [日行万步]()
-* [切勿久坐]()
-* [健康饮食]()
-* [眼睛保护]()
-* [每日需要做的锻炼动作]()
-* [循环锻炼计划表]()
+* [每日会议(每日反思、健康的站立)](https://github.com/L1nwatch/it_people_healthy#每日反思)
+* [日行万步](https://github.com/L1nwatch/it_people_healthy#日行万步)
+* [切勿久坐](https://github.com/L1nwatch/it_people_healthy#切勿久坐)
+* [健康饮食](https://github.com/L1nwatch/it_people_healthy#健康饮食)
+* [眼睛保护](https://github.com/L1nwatch/it_people_healthy#眼睛保护)
+* [每日需要做的锻炼动作](https://github.com/L1nwatch/it_people_healthy#每日需要的锻炼动作)
+* [循环锻炼计划表](https://github.com/L1nwatch/it_people_healthy#循环锻炼计划表)
+
+
+### Others
+* [书中的零碎知识点](https://github.com/L1nwatch/it_people_healthy#知识点)
+* [书中的**行动起来**总结](https://github.com/L1nwatch/it_people_healthy#行动起来)
+* [My Own Think & Plan](https://github.com/L1nwatch/it_people_healthy#零散知识点)
+
 
 ***
 
