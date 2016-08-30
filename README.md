@@ -7,23 +7,23 @@
 ## 整本书知识点总结
 ### 测试的项目
 * 测量体重：找个体重秤，看一下体重吧
-* ![对健康进行单元测试，回答几个问题](https://github.com/L1nwatch/it_people_healthy#零散知识点)
+* [对健康进行单元测试，回答几个问题](https://github.com/L1nwatch/it_people_healthy#对健康进行单元测试)
 * 测量心率：最简单的方法就是触摸颈部或者手腕的脉搏。在 10 秒钟内测得脉搏跳动的次数，再用该数乘以 6。
-* ![对视力进行单元测试]()
-* ![步行的标准姿势测试]()
-* ![K-W 测试]()
-* ![坐姿检查]()
-* ![对手腕进行单元测试]()
-* ![检查敲键盘的手臂姿势]()
-* ![健康 5 维度的单元测试]()
+* [对视力进行单元测试](https://github.com/L1nwatch/it_people_healthy#对视力进行单元测试)
+* [步行的标准姿势测试](https://github.com/L1nwatch/it_people_healthy#步行时应该掌握的标准姿势)
+* [K-W 测试](https://github.com/L1nwatch/it_people_healthy#k-w-测试)
+* [坐姿检查](https://github.com/L1nwatch/it_people_healthy#坐姿检查)
+* [对手腕进行单元测试](https://github.com/L1nwatch/it_people_healthy#对手腕进行单元测试)
+* [检查敲键盘的手臂姿势](https://github.com/L1nwatch/it_people_healthy#检查敲键盘的手臂姿势)
+* [健康 5 维度的单元测试](https://github.com/L1nwatch/it_people_healthy#健康-5-维度的单元测试)
 
 ### 锻炼的项目
-* ![灵活性锻炼（坐着的健美操动作）]()
-* ![灵活性及稳定性运动]()
-* ![手腕运动（神经滑动运动）]()
-* ![高强度锻炼前的热身运动]()
-* ![提升身体力量的动作]()
-* ![增强躯干肌肉群的运动]()
+* [灵活性锻炼（坐着的健美操动作）](https://github.com/L1nwatch/it_people_healthy#灵活性锻炼坐着的健美操动作)
+* [灵活性及稳定性运动](https://github.com/L1nwatch/it_people_healthy#灵活性及稳定性运动)
+* [手腕运动（神经滑动运动）](https://github.com/L1nwatch/it_people_healthy#手腕运动神经滑动运动)
+* [高强度锻炼前的热身运动](https://github.com/L1nwatch/it_people_healthy#高强度锻炼前的热身运动)
+* [提升身体力量的动作](https://github.com/L1nwatch/it_people_healthy#提升身体力量的动作)
+* [增强躯干肌肉群的运动](https://github.com/L1nwatch/it_people_healthy#增强躯干肌肉群的运动)
 
 #### 对健康进行单元测试
 - 爬完一层楼梯，你是否会喘不过气？
