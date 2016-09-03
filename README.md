@@ -40,7 +40,7 @@
 ### Others
 * [书中的零碎知识点](https://github.com/L1nwatch/it_people_healthy#知识点)
 * [书中的**行动起来**总结](https://github.com/L1nwatch/it_people_healthy#行动起来)
-* [My Own Think & Plan](https://github.com/L1nwatch/it_people_healthy#零散知识点)
+* [My Own Think & Plan](https://github.com/L1nwatch/it_people_healthy#my-own-plan)
 
 
 ***
