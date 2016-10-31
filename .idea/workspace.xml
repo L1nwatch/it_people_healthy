@@ -356,13 +356,6 @@
       <option name="presentableId" value="Default" />
       <updated>1470917144173</updated>
     </task>
-    <task id="LOCAL-00046" summary="稍微总结一下知识点, 总结到第 2 章了">
-      <created>1472372987276</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1472372987276</updated>
-    </task>
     <task id="LOCAL-00047" summary="稍微总结一下知识点, 总结到第 2 章了">
       <created>1472373465588</created>
       <option name="number" value="00047" />
@@ -699,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1476447944262</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="删除大文件 pdf, 只留下 md 和图片">
+      <created>1477883780457</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1477883780458</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -760,7 +760,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="至此整本书结束了" />
     <MESSAGE value="稍微总结一下知识点, 总结到第 2 章了" />
     <MESSAGE value="稍微总结一下知识点, 总结到第 6 章了" />
     <MESSAGE value="稍微总结一下知识点, 总结到第 7 章了" />
@@ -785,7 +784,8 @@
     <MESSAGE value="更新 2016.09.15 的锻炼日志" />
     <MESSAGE value="更新 2016.09.16 的锻炼日志" />
     <MESSAGE value="更新锻炼日志" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新锻炼日志" />
+    <MESSAGE value="删除大文件 pdf, 只留下 md 和图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除大文件 pdf, 只留下 md 和图片" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
