@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad2188a5-008d-416a-836a-721c7df2ae07" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/The Healthy Programmer.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="it_people_healthy.iws" />
@@ -356,13 +355,6 @@
       <option name="presentableId" value="Default" />
       <updated>1470917144173</updated>
     </task>
-    <task id="LOCAL-00047" summary="稍微总结一下知识点, 总结到第 2 章了">
-      <created>1472373465588</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1472373465588</updated>
-    </task>
     <task id="LOCAL-00048" summary="稍微总结一下知识点, 总结到第 6 章了">
       <created>1472390728771</created>
       <option name="number" value="00048" />
@@ -699,11 +691,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477883780458</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="删除大文件 pdf, 只留下 md 和图片">
+      <created>1477884493014</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1477884493014</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
